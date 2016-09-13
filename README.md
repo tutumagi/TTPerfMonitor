@@ -8,4 +8,4 @@ A PerfMonitor for iOS from RCTPerfMonitor
 [[TTPerfMonitor shareInstance] show];
 ```
 
-![](https://github.com/tutumagi/TTPerfMonitor/blob/master/snapshot/snapshot.png)
+![](https://raw.githubusercontent.com/tutumagi/TTPerfMonitor/master/snapshot/snapshot.png)
